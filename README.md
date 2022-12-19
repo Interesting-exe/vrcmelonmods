@@ -1,5 +1,5 @@
 # vrcmelonmods
-styletor.dll needs to be ran with tab extention to work along with melon pref
+styletor.dll needs to be ran with tab extention to work along with melon pref.cfg and put that in user data
 credits to Kanna for fixing the tab extention and Uiexpansion mod
 https://github.com/darbdarb
 

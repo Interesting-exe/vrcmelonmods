@@ -7,3 +7,4 @@ credits for xKiraiChan for astral clone
 https://github.com/Astrum-Project
 credits goes to astroboy for join notifier and Finitizer
 https://github.com/xAstroBoy/VRCMods-Unchained
+https://github.com/Mezque?tab=repositories for the mic recolour

@@ -8,3 +8,6 @@ https://github.com/Astrum-Project
 credits goes to astroboy for join notifier and Finitizer
 https://github.com/xAstroBoy/VRCMods-Unchained
 https://github.com/Mezque?tab=repositories for the mic recolour
+
+some other mods 
+Changes your QM theme:https://github.com/swordsith/Colormod 

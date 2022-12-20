@@ -1,4 +1,7 @@
 # vrcmelonmods
+website for eacmelon: https://thats.gg/melonloader/
+most of these mods require deob version of melon: https://cdn.wtfblaze.com/MelonLoader.zip 
+
 styletor.dll needs to be ran with tab extention to work along with melon pref.cfg and put that in user data
 
 credits to Kanna for fixing the tab extention and Uiexpansion mod

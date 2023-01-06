@@ -20,4 +20,4 @@ Changes your QM theme:https://github.com/swordsith/Colormod
 
 NameTags: https://github.com/Fewdys/tags
 
-bad-tabextention:interesting
+bad-tabextention: https://github.com/Interesting-exe/BadTabextensions
